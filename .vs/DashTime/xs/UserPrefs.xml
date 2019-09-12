@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{28C7155E-EA26-4386-BA68-55BE68965CA7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Dash/index.cshtml">
     <Files>
       <File FileName="Controllers/HomeController.cs" Line="19" Column="10" />
       <File FileName="Controllers/DashController.cs" Line="17" Column="10" />
@@ -7,11 +7,11 @@
       <File FileName="Views/Shared/_Layout.cshtml" Line="20" Column="1" />
       <File FileName="Views/Shared/_menu.cshtml" Line="13" Column="40" />
       <File FileName="Views/Shared/_LayoutAdmin.cshtml" Line="22" Column="1" />
-      <File FileName="Views/Dash/index.cshtml" Line="4" Column="2" />
+      <File FileName="Views/Dash/index.cshtml" Line="3" Column="51" />
       <File FileName="Models/Middleware.cs" Line="1" Column="1" />
       <File FileName="Models/ClienteModel.cs" Line="10" Column="1" />
-      <File FileName="Startup.cs" Line="38" Column="26" />
-      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="39" Column="68" />
+      <File FileName="appsettings.json" Line="4" Column="103" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,7 +21,11 @@
               <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
-              <Node name="appsettings.json" selected="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Dash" expanded="True">
+                  <Node name="index.cshtml" selected="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>

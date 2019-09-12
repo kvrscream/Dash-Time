@@ -35,3 +35,5 @@
 /Users/macmini/Projects/DashTime/obj/Debug/netcoreapp2.1/DashTime.pdb
 /Users/macmini/Projects/DashTime/obj/Debug/netcoreapp2.1/DashTime.csproj.CopyComplete
 /Users/macmini/Projects/DashTime/obj/Debug/netcoreapp2.1/Razor/Views/Dash/index.g.cshtml.cs
+/Users/macmini/Projects/DashTime/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_LayoutAdmin.g.cshtml.cs
+/Users/macmini/Projects/DashTime/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_menu.g.cshtml.cs
